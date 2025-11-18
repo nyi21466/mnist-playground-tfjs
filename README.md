@@ -1,4 +1,4 @@
-# 🎨 MNIST Training Playground
+# 🎨 MNIST Dataset Training Playground using TFJS
 
 <div align="center">
 
