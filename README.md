@@ -304,14 +304,6 @@ To use a custom dataset:
 
 > ⚡ **WebGPU Support**: WebGPU is currently supported in Chrome and Edge. Other browsers will automatically fall back to WebGL.
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - [TensorFlow.js](https://www.tensorflow.org/js) - Machine learning library
@@ -319,10 +311,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Bootstrap](https://getbootstrap.com/) - UI framework
 - [Bootstrap Icons](https://icons.getbootstrap.com/) - Icon library
 - [MNIST Dataloader](https://raw.githubusercontent.com/tensorflow/tfjs-examples/master/mnist-core/data.js) - Dataset source
-
-## 📞 Contact
-
-For questions or feedback, please open an issue on GitHub.
 
 ---
 
